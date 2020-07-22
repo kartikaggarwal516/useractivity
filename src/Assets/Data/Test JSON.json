@@ -1,0 +1,40 @@
+{
+	"ok": true,
+	"members": [{
+			"id": "W012A3CDE",
+			"real_name": "Egon Spengler",
+			"tz": "America/Los_Angeles",
+			"activity_periods": [{
+					"start_time": "Feb 1 2020  13:33",
+					"end_time": "Feb 1 2020 13:54"
+				},
+				{
+					"start_time": "Mar 1 2020  11:11",
+					"end_time": "Mar 1 2020 14:00"
+				},
+				{
+					"start_time": "Mar 16 2020  17:33",
+					"end_time": "Mar 16 2020 20:02"
+				}
+			]
+		},
+		{
+			"id": "W07QCRPA4",
+			"real_name": "Glinda Southgood",
+			"tz": "Asia/Kolkata",
+			"activity_periods": [{
+					"start_time": "Feb 1 2020  13:33",
+					"end_time": "Feb 1 2020 13:54"
+				},
+				{
+					"start_time": "Mar 1 2020  11:11",
+					"end_time": "Mar 1 2020 14:00"
+				},
+				{
+					"start_time": "Mar 16 2020  17:33",
+					"end_time": "Mar 16 2020 20:02"
+				}
+			]
+		}
+	]
+}

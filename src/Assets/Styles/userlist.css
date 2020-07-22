@@ -1,0 +1,13 @@
+.list{
+    text-align: center;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    position: relative;
+    top: 150px;
+}
+
+.cardStyle{
+    width: 18rem;
+    box-shadow: 0px 4px 20px;
+}
